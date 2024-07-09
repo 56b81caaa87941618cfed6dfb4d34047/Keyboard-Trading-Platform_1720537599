@@ -6,5 +6,11 @@
         "timestamp": "09072024150640",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the hero to be keyboard themed",
+        "timestamp": "09072024150658",
+        "message_id": "guest09072024150657"
     }
 ]
