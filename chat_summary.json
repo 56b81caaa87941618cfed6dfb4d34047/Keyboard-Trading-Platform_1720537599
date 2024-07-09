@@ -12,5 +12,11 @@
         "content": "Change the hero to be keyboard themed",
         "timestamp": "09072024150658",
         "message_id": "guest09072024150657"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the hero to keyboard theme.",
+        "timestamp": "09072024150659",
+        "message_id": "guest09072024150657"
     }
 ]
